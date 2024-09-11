@@ -22,7 +22,7 @@ namespace programacionejerc5clases
         {
             if (Edad >= 15 && Edad < 18)
             {
-                return "menor de edad";
+                return "menor de edads";
             }
             else if (Edad >= 18 && Edad < 30)
             {
